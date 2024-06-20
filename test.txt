@@ -1,1 +1,0 @@
-this is test file to verify whether jenkins webhook is working or not automatically
